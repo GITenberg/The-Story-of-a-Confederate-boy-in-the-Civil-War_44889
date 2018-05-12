@@ -1,0 +1,36 @@
+_repo: The-Story-of-a-Confederate-boy-in-the-Civil-War_44889
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Cline, C. E.
+    gutenberg_agent_id: '42961'
+    url: http://www.gutenberg.org/2009/agents/42961
+covers:
+- cover_type: archival
+  image_path: 44889-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Johnston, David E. (David Emmons)
+    alias: Johnston, David Emmons
+    birthdate: 1845
+    deathdate: 1917
+    gutenberg_agent_id: '42960'
+    url: http://www.gutenberg.org/2009/agents/42960
+description: ''
+gutenberg_issued: '2014-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44889'
+  lccn: '14015373'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'Confederate States of America. Army. Virginia Infantry Regiment, 7th'
+title: The Story of a Confederate Boy in the Civil War
+url: http://www.gutenberg.org/ebooks/44889
